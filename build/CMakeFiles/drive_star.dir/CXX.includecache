@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mbot/drive-star-f23/src/drive_star.cpp
+iostream
+-
+cmath
+-
+signal.h
+-
+mbot_bridge/robot.h
+-
+

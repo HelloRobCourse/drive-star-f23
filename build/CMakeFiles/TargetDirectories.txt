@@ -1,0 +1,3 @@
+/home/mbot/drive-star-f23/build/CMakeFiles/rebuild_cache.dir
+/home/mbot/drive-star-f23/build/CMakeFiles/edit_cache.dir
+/home/mbot/drive-star-f23/build/CMakeFiles/drive_star.dir
